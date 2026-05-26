@@ -3,3 +3,8 @@ P002,Mechanical Keyboard,79.50,75
 P003,USB-C Charger,19.99,200
 P004,Laptop Stand,34.95,60
 P005,Bluetooth Speaker,49.99,90
+P006,Webcam HD,39.99,85
+P007,Noise Cancelling Headphones,129.99,40
+P008,Portable SSD 1TB,99.95,55
+P009,Gaming Mouse Pad,15.49,150
+P010,Smartphone Tripod,22.75,110
