@@ -1,0 +1,5 @@
+P001,Wireless Mouse,25.99,120
+P002,Mechanical Keyboard,79.50,75
+P003,USB-C Charger,19.99,200
+P004,Laptop Stand,34.95,60
+P005,Bluetooth Speaker,49.99,90
